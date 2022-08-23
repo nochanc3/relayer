@@ -17,14 +17,12 @@
         {
         "src-channel-filter":
             "rule": "allowlist",
-            {
             "channel-list":
-                - "channel-0"
-                - "channel-1"
-                - "channel-2"
-                - "channel-3"
-                - "channel-4"
-            }
+                "- channel-0"
+                "- channel-1"
+                "- channel-2"
+                "- channel-3"
+                "- channel-4"
         }
     }
 }
